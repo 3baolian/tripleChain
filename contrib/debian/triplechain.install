@@ -1,0 +1,5 @@
+triplechain usr/bin
+share/pixmaps/triplechain32.xpm usr/share/pixmaps
+share/pixmaps/triplechain80.xpm usr/share/pixmaps
+debian/triplechain.desktop usr/share/applications
+debian/triplechain.protocol usr/share/kde4/services/

@@ -1,0 +1,2 @@
+debian/bin/triplechaind usr/bin
+src/triplechaind usr/lib/triplechain
